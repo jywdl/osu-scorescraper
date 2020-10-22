@@ -9,7 +9,8 @@ import time
 import pandas as pd
 from time import sleep
 
-api_key = 'da41f6bd24f45f8aaf438e45c13556d78f969714'
+#api key here
+api_key = 'API_KEY'
 
 def main():
 	#get total maps wanted & file name from user
